@@ -58,7 +58,8 @@
           "[Go](#go)",
           "[Lua](#lua)",
           "[Objective-C](#objective-c)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -1373,6 +1374,543 @@
               "2",
               "[@titpetric](https://github.com/titpetric)/[**git-misc**](https://github.com/titpetric/git-misc)",
               "Enhanced git commands for working with multiple checkouts/submodules",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "339",
+              "[@uskudnik](https://github.com/uskudnik)/[**amazon-glacier-cmd-i…**](https://github.com/uskudnik/amazon-glacier-cmd-interface)",
+              "Command line interface for Amazon Glacier",
+              ""
+            ],
+            [
+              "270",
+              "[@izacus](https://github.com/izacus)/[**RoboGif**](https://github.com/izacus/RoboGif)",
+              "A small utility to record Android device screen to a GIF",
+              ""
+            ],
+            [
+              "89",
+              "[@samastur](https://github.com/samastur)/[**Impostor**](https://github.com/samastur/Impostor)",
+              "Django app that enables staff to log in as other users using their own credentials.",
+              ""
+            ],
+            [
+              "67",
+              "[@bancek](https://github.com/bancek)/[**django-smtp-ssl**](https://github.com/bancek/django-smtp-ssl)",
+              "SMTP SSL email backend for Django",
+              ""
+            ],
+            [
+              "54",
+              "[@Kami](https://github.com/Kami)/[**python-yubico-client**](https://github.com/Kami/python-yubico-client)",
+              "Python library for validating Yubico Yubikey One Time Passwords (OTPs) based on the validation protocol version 2.0.",
+              "[:arrow_upper_right:](https://yubico-client.readthedocs.org/en/latest/)"
+            ],
+            [
+              "52",
+              "[@domenkozar](https://github.com/domenkozar)/[**mr.bob**](https://github.com/domenkozar/mr.bob)",
+              "Mister Bob (the builder) is filesystem template renderer",
+              "[:arrow_upper_right:](http://mrbob.readthedocs.org/en/latest/)"
+            ],
+            [
+              "50",
+              "[@Kami](https://github.com/Kami)/[**python-face-client**](https://github.com/Kami/python-face-client)",
+              "face.com REST API Python client library.",
+              "[:arrow_upper_right:](http://developers.face.com/)"
+            ],
+            [
+              "48",
+              "[@samastur](https://github.com/samastur)/[**image-diet**](https://github.com/samastur/image-diet)",
+              "A Django application for removing unnecessary bytes from images. Integrates seemlessly with Easy Thumbnails.",
+              ""
+            ],
+            [
+              "41",
+              "[@miha-stopar](https://github.com/miha-stopar)/[**nnets**](https://github.com/miha-stopar/nnets)",
+              "Python neural network library",
+              ""
+            ],
+            [
+              "39",
+              "[@domenkozar](https://github.com/domenkozar)/[**almir**](https://github.com/domenkozar/almir)",
+              "Bacula web administration written in Pyramid",
+              ""
+            ],
+            [
+              "21",
+              "[@Kami](https://github.com/Kami)/[**Dropbox-Screen-Grabb…**](https://github.com/Kami/Dropbox-Screen-Grabber)",
+              "An application which sits in the system tray and allows you to capture the screenshot of the whole desktop or the currently active window and save it to the Dropbox public folder.",
+              "[:arrow_upper_right:](http://www.dropboxwiki.com/dropbox-addons/dropbox-screen-grabber)"
+            ],
+            [
+              "20",
+              "[@dusano](https://github.com/dusano)/[**DeepLearning**](https://github.com/dusano/DeepLearning)",
+              "Python implementation of UFLDL tutorial code",
+              ""
+            ],
+            [
+              "18",
+              "[@Kami](https://github.com/Kami)/[**python-file-syncer**](https://github.com/Kami/python-file-syncer)",
+              "Python program which synchronizes files from a local directory to one of the cloud object storage providers supported by Libcloud and vice-versa.",
+              "[:arrow_upper_right:](https://file-syncer.readthedocs.org/en/latest/)"
+            ],
+            [
+              "15",
+              "[@zejn](https://github.com/zejn)/[**arsoapi**](https://github.com/zejn/arsoapi)",
+              "ARSO API",
+              ""
+            ],
+            [
+              "14",
+              "[@zejn](https://github.com/zejn)/[**prometapi**](https://github.com/zejn/prometapi)",
+              "",
+              ""
+            ],
+            [
+              "13",
+              "[@zejn](https://github.com/zejn)/[**pypdf2xml**](https://github.com/zejn/pypdf2xml)",
+              "Convert text from PDF to XML.",
+              ""
+            ],
+            [
+              "13",
+              "[@Kami](https://github.com/Kami)/[**django-yubico-authen…**](https://github.com/Kami/django-yubico-authentication-backend)",
+              "Yubico Yubikey authentication backend for Django",
+              "[:arrow_upper_right:](https://django-yubico-authentication-backend.readthedocs.org/en/latest/)"
+            ],
+            [
+              "13",
+              "[@Kami](https://github.com/Kami)/[**django-notifications**](https://github.com/Kami/django-notifications)",
+              "Django application which allows you to create subscriptions for different model events (create, edit and delete) and send notification(s) when the subscribed event has occurred.",
+              "[:arrow_upper_right:](http://kami.github.com/django-notifications/)"
+            ],
+            [
+              "13",
+              "[@domenkozar](https://github.com/domenkozar)/[**g-pypi**](https://github.com/domenkozar/g-pypi)",
+              "g-pypi manages ebuilds for Gentoo Linux using information in PyPi (Python Package Index)",
+              ""
+            ],
+            [
+              "13",
+              "[@Kami](https://github.com/Kami)/[**python-twisted-binar…**](https://github.com/Kami/python-twisted-binary-file-transfer-demo)",
+              "Simple demo which shows how you can transfer binary files using the Twisted framework.",
+              ""
+            ],
+            [
+              "12",
+              "[@Kami](https://github.com/Kami)/[**munin-celery**](https://github.com/Kami/munin-celery)",
+              "Munin plugin for Celery - a distributed task queue.",
+              "[:arrow_upper_right:](http://exchange.munin-monitoring.org/plugins/celery_tasks/details)"
+            ],
+            [
+              "11",
+              "[@jurev](https://github.com/jurev)/[**knockout**](https://github.com/jurev/knockout)",
+              "Knockout aims to extend the basic importing mechanisms in Python by allowing more exotic stuff to be added to sys.path.",
+              ""
+            ],
+            [
+              "11",
+              "[@Kami](https://github.com/Kami)/[**parallel-django-and-…**](https://github.com/Kami/parallel-django-and-twisted-test-runner)",
+              "",
+              "[:arrow_upper_right:](http://www.tomaz.me/2011/04/03/making-django-and-twisted-tests-faster.html)"
+            ],
+            [
+              "11",
+              "[@izacus](https://github.com/izacus)/[**slo_pos**](https://github.com/izacus/slo_pos)",
+              "Slovenian part-of-speech tagger for Python/NLTK",
+              ""
+            ],
+            [
+              "11",
+              "[@samastur](https://github.com/samastur)/[**GReader-hoover**](https://github.com/samastur/GReader-hoover)",
+              "A dirty python script for exporting information from Google Reader",
+              ""
+            ],
+            [
+              "10",
+              "[@domenkozar](https://github.com/domenkozar)/[**nose-selecttests**](https://github.com/domenkozar/nose-selecttests)",
+              "Simple nose plugin that enables developers to run subset of collected tests to spare some waiting time for better things.",
+              ""
+            ],
+            [
+              "9",
+              "[@domenkozar](https://github.com/domenkozar)/[**domenkozar.com**](https://github.com/domenkozar/domenkozar.com)",
+              "Personal webpage and blog",
+              "[:arrow_upper_right:](http://www.domenkozar.com)"
+            ],
+            [
+              "9",
+              "[@offlinehacker](https://github.com/offlinehacker)/[**pysms**](https://github.com/offlinehacker/pysms)",
+              "Python library for sending sms-es",
+              ""
+            ],
+            [
+              "9",
+              "[@lukacu](https://github.com/lukacu)/[**django-gallery**](https://github.com/lukacu/django-gallery)",
+              "An image gallery application for Django framework",
+              ""
+            ],
+            [
+              "8",
+              "[@ercchy](https://github.com/ercchy)/[**simpleHttpServer**](https://github.com/ercchy/simpleHttpServer)",
+              "Simple HTTP Server is a learning project about HTTP Protocol and how server is handling requests.",
+              ""
+            ],
+            [
+              "8",
+              "[@offlinehacker](https://github.com/offlinehacker)/[**scapy**](https://github.com/offlinehacker/scapy)",
+              "Scapy is an interactive packet manipulation program that enables you to sniff, mangle, send network packets ; test equipments ; probe and discover networks ; quickly develop new protocols. ",
+              ""
+            ],
+            [
+              "7",
+              "[@samastur](https://github.com/samastur)/[**pyimagediet**](https://github.com/samastur/pyimagediet)",
+              "Python wrapper around image optimisations tools.",
+              ""
+            ],
+            [
+              "6",
+              "[@samastur](https://github.com/samastur)/[**image-diet2**](https://github.com/samastur/image-diet2)",
+              "A Django application for removing unnecessary bytes from images. Backwards incompatible evolution of image-diet.",
+              ""
+            ],
+            [
+              "6",
+              "[@bancek](https://github.com/bancek)/[**django-autoadmin**](https://github.com/bancek/django-autoadmin)",
+              "This app provides quick administration over your Django models",
+              ""
+            ],
+            [
+              "6",
+              "[@zejn](https://github.com/zejn)/[**django-localflavor-s…**](https://github.com/zejn/django-localflavor-sl)",
+              "Slovenian Django localflavor",
+              ""
+            ],
+            [
+              "6",
+              "[@bancek](https://github.com/bancek)/[**fabric-threadsafe**](https://github.com/bancek/fabric-threadsafe)",
+              "Monkeypatch script to make Fabric thread-safe",
+              ""
+            ],
+            [
+              "5",
+              "[@izacus](https://github.com/izacus)/[**pyvideo**](https://github.com/izacus/pyvideo)",
+              "Python video decoding library using AVBin as a backend",
+              ""
+            ],
+            [
+              "5",
+              "[@nightmarebadger](https://github.com/nightmarebadger)/[**pyglet-and-cocos2d-t…**](https://github.com/nightmarebadger/pyglet-and-cocos2d-tutorials)",
+              "The source for my tutorials for Pyglet and Cocos2d",
+              ""
+            ],
+            [
+              "5",
+              "[@jurev](https://github.com/jurev)/[**tipfy-jsontemplate**](https://github.com/jurev/tipfy-jsontemplate)",
+              "JSON Template extension for Tipfy.",
+              "[:arrow_upper_right:](http://code.google.com/p/json-template/)"
+            ],
+            [
+              "5",
+              "[@hamax](https://github.com/hamax)/[**python-hookboxclient**](https://github.com/hamax/python-hookboxclient)",
+              "Hookbox client for python",
+              ""
+            ],
+            [
+              "5",
+              "[@domenkozar](https://github.com/domenkozar)/[**coursea-crypto**](https://github.com/domenkozar/coursea-crypto)",
+              "Solutions to programming assignments for online Cryptography class at Stanford University",
+              ""
+            ],
+            [
+              "4",
+              "[@domenkozar](https://github.com/domenkozar)/[**najdi-si-sms**](https://github.com/domenkozar/najdi-si-sms)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@domenkozar](https://github.com/domenkozar)/[**pyramid_marrowmailer**](https://github.com/domenkozar/pyramid_marrowmailer)",
+              "Pyramid integration package for marrow.mailer, formerly known as TurboMail.",
+              ""
+            ],
+            [
+              "4",
+              "[@izacus](https://github.com/izacus)/[**pyopencv_demo**](https://github.com/izacus/pyopencv_demo)",
+              "Demo of how to use SURF/FLANN to find similar images in python",
+              ""
+            ],
+            [
+              "4",
+              "[@dusano](https://github.com/dusano)/[**django-probe**](https://github.com/dusano/django-probe)",
+              "HackDay project",
+              ""
+            ],
+            [
+              "4",
+              "[@domenkozar](https://github.com/domenkozar)/[**django-akismet-comme…**](https://github.com/domenkozar/django-akismet-comments)",
+              "Django moderator for checking django.contrib.comments spam against akismet service.",
+              ""
+            ],
+            [
+              "4",
+              "[@dusano](https://github.com/dusano)/[**simple-recommendatio…**](https://github.com/dusano/simple-recommendation-engine)",
+              "Simple Recommendation Service",
+              ""
+            ],
+            [
+              "4",
+              "[@Kami](https://github.com/Kami)/[**django-visitor-infor…**](https://github.com/Kami/django-visitor-information-middleware)",
+              "A collection of Django middleware classes which make writing timezone and location aware applications easier.",
+              ""
+            ],
+            [
+              "4",
+              "[@zupo](https://github.com/zupo)/[**crypto**](https://github.com/zupo/crypto)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@Smotko](https://github.com/Smotko)/[**gms**](https://github.com/Smotko/gms)",
+              "Generic mouse gestures on Linux",
+              ""
+            ],
+            [
+              "4",
+              "[@zejn](https://github.com/zejn)/[**epubhub**](https://github.com/zejn/epubhub)",
+              "Django e-bookshelf app.",
+              ""
+            ],
+            [
+              "4",
+              "[@domenkozar](https://github.com/domenkozar)/[**nix-cookbook**](https://github.com/domenkozar/nix-cookbook)",
+              "Practical ways of using Nix package manager ecosystem",
+              ""
+            ],
+            [
+              "4",
+              "[@Kami](https://github.com/Kami)/[**libcloud.rest**](https://github.com/Kami/libcloud.rest)",
+              "REST interface for Libcloud",
+              ""
+            ],
+            [
+              "4",
+              "[@offlinehacker](https://github.com/offlinehacker)/[**spynner**](https://github.com/offlinehacker/spynner)",
+              "Statefull programmatic web browser module for python.",
+              ""
+            ],
+            [
+              "3",
+              "[@zejn](https://github.com/zejn)/[**djpubsubhubbub**](https://github.com/zejn/djpubsubhubbub)",
+              "Django hooks for PubSubHubBub subscribers, forked from https://git.participatoryculture.org/djp…",
+              "[:arrow_upper_right:](https://git.participatoryculture.org/djpubsubhubbub/)"
+            ],
+            [
+              "3",
+              "[@Kami](https://github.com/Kami)/[**advanced-yubico-pam-…**](https://github.com/Kami/advanced-yubico-pam-module)",
+              "Python PAM module which allows you to integrate the Yubikey into your existing user authentication infrastructure (supports online, failback and offline mode).",
+              ""
+            ],
+            [
+              "3",
+              "[@zejn](https://github.com/zejn)/[**sigeo**](https://github.com/zejn/sigeo)",
+              "Slovenian public geographic data Django apps",
+              ""
+            ],
+            [
+              "3",
+              "[@Kami](https://github.com/Kami)/[**Asset-Deflator**](https://github.com/Kami/Asset-Deflator)",
+              "Script for minifying / compiling / compressing your website static resources (CSS, JavaScript - inline too and images).",
+              ""
+            ],
+            [
+              "3",
+              "[@miha-stopar](https://github.com/miha-stopar)/[**extract-repetitions**](https://github.com/miha-stopar/extract-repetitions)",
+              "Extract (DOM tree) repetitions from web page",
+              ""
+            ],
+            [
+              "3",
+              "[@Smotko](https://github.com/Smotko)/[**passwords**](https://github.com/Smotko/passwords)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@zejn](https://github.com/zejn)/[**django_temporal**](https://github.com/zejn/django_temporal)",
+              "Temporal tables for Django",
+              ""
+            ],
+            [
+              "3",
+              "[@domenkozar](https://github.com/domenkozar)/[**bobtemplates.ielectr…**](https://github.com/domenkozar/bobtemplates.ielectric)",
+              "My mr.bob templates",
+              ""
+            ],
+            [
+              "3",
+              "[@gandalfar](https://github.com/gandalfar)/[**oauth-python-readabi…**](https://github.com/gandalfar/oauth-python-readability)",
+              "OAuth Python library for Readability API",
+              "[:arrow_upper_right:](https://www.readability.com/publishers/api/)"
+            ],
+            [
+              "2",
+              "[@izacus](https://github.com/izacus)/[**pysolarized**](https://github.com/izacus/pysolarized)",
+              "Yet another library for talking to Solr with Python",
+              ""
+            ],
+            [
+              "2",
+              "[@samastur](https://github.com/samastur)/[**django-admin-filters**](https://github.com/samastur/django-admin-filters)",
+              "Generic Filters for the changelist in Django Admin",
+              ""
+            ],
+            [
+              "2",
+              "[@bancek](https://github.com/bancek)/[**lektor-markdown-exce…**](https://github.com/bancek/lektor-markdown-excerpt)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@bancek](https://github.com/bancek)/[**django-dacks**](https://github.com/bancek/django-dacks)",
+              "Django Hacks",
+              ""
+            ],
+            [
+              "2",
+              "[@Smotko](https://github.com/Smotko)/[**estudent**](https://github.com/Smotko/estudent)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@offlinehacker](https://github.com/offlinehacker)/[**flumotion**](https://github.com/offlinehacker/flumotion)",
+              "",
+              "[:arrow_upper_right:](http://www.flumotion.net/)"
+            ],
+            [
+              "2",
+              "[@kostko](https://github.com/kostko)/[**itsy**](https://github.com/kostko/itsy)",
+              "A MongoDB Document-Object Mapper with integrated Elastic Search support.",
+              ""
+            ],
+            [
+              "2",
+              "[@jurev](https://github.com/jurev)/[**geebaby**](https://github.com/jurev/geebaby)",
+              "TEA(Tags, Entities, Actions) experimental web framework for Google App Engine",
+              "[:arrow_upper_right:](http://geebaby.codeshift.net/)"
+            ],
+            [
+              "2",
+              "[@nightmarebadger](https://github.com/nightmarebadger)/[**Sokoban-Tkinter**](https://github.com/nightmarebadger/Sokoban-Tkinter)",
+              "A very simple Sokoban clone made using Python and Tkinter",
+              ""
+            ],
+            [
+              "2",
+              "[@offlinehacker](https://github.com/offlinehacker)/[**pyfilesystem**](https://github.com/offlinehacker/pyfilesystem)",
+              "Python filesystem",
+              ""
+            ],
+            [
+              "2",
+              "[@uskudnik](https://github.com/uskudnik)/[**gpxjoin**](https://github.com/uskudnik/gpxjoin)",
+              "Join multiple GPX files into one file",
+              ""
+            ],
+            [
+              "2",
+              "[@domenkozar](https://github.com/domenkozar)/[**Django-Beer-Workshop**](https://github.com/domenkozar/Django-Beer-Workshop)",
+              "Material for workshop in Slovenia",
+              ""
+            ],
+            [
+              "2",
+              "[@offlinehacker](https://github.com/offlinehacker)/[**beatmaker**](https://github.com/offlinehacker/beatmaker)",
+              "Make beats easily using your keyboard.",
+              "[:arrow_upper_right:](http://code.offlinehacker.net/projects/beatmaker)"
+            ],
+            [
+              "2",
+              "[@domenkozar](https://github.com/domenkozar)/[**Products.FeedFeeder**](https://github.com/domenkozar/Products.FeedFeeder)",
+              "tiny changes needed for odprtakoda.si",
+              ""
+            ],
+            [
+              "2",
+              "[@zejn](https://github.com/zejn)/[**pcaxis**](https://github.com/zejn/pcaxis)",
+              "PCAxis .px file format parser",
+              ""
+            ],
+            [
+              "2",
+              "[@izacus](https://github.com/izacus)/[**SloRealestate**](https://github.com/izacus/SloRealestate)",
+              "Project to parse and sanitize slovenian realestate ad data",
+              ""
+            ],
+            [
+              "2",
+              "[@Kami](https://github.com/Kami)/[**munin_exchange**](https://github.com/Kami/munin_exchange)",
+              "Source code of the Munin Exchange website.",
+              "[:arrow_upper_right:](http://exchange.munin-monitoring.org)"
+            ],
+            [
+              "2",
+              "[@gandalfar](https://github.com/gandalfar)/[**django-simple-layar**](https://github.com/gandalfar/django-simple-layar)",
+              "Where in Ljubljana can one find the last few space invaders?",
+              ""
+            ],
+            [
+              "2",
+              "[@Kami](https://github.com/Kami)/[**cloudkick-query-lang…**](https://github.com/Kami/cloudkick-query-language-parser)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@gandalfar](https://github.com/gandalfar)/[**mobilecheck**](https://github.com/gandalfar/mobilecheck)",
+              "Django application to check if accounting of Slovenian mobile operators is correct",
+              ""
+            ],
+            [
+              "2",
+              "[@Kami](https://github.com/Kami)/[**libcloud-sandbox**](https://github.com/Kami/libcloud-sandbox)",
+              "Libcloud sandbox.",
+              ""
+            ],
+            [
+              "2",
+              "[@gandalfar](https://github.com/gandalfar)/[**talk-visualize-kiber…**](https://github.com/gandalfar/talk-visualize-kiberpipa)",
+              "Talk I gave at Kiberpipa (in Slovenian) about how to parse Excel file and make a simple d3.js based visualization",
+              ""
+            ],
+            [
+              "2",
+              "[@Kami](https://github.com/Kami)/[**django-encrypted-set…**](https://github.com/Kami/django-encrypted-settings)",
+              "Thin wrapper around Python keyczar bindings which allows you to manage and use encrypted settings in your Django app.",
+              ""
+            ],
+            [
+              "2",
+              "[@offlinehacker](https://github.com/offlinehacker)/[**PyLogDecorate**](https://github.com/offlinehacker/PyLogDecorate)",
+              "Python logging decorators.",
               ""
             ]
           ]
