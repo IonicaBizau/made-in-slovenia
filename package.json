@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -825,6 +826,63 @@
               "2",
               "[@pinkflozd](https://github.com/pinkflozd)/[**arm-cortex_a7-linux-…**](https://github.com/pinkflozd/arm-cortex_a7-linux-gnueabihf)",
               "Linaro 4.x Cortex-A7 Optimized",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "34",
+              "[@ntadej](https://github.com/ntadej)/[**tano**](https://github.com/ntadej/tano)",
+              "Tano - an open IP TV player",
+              "[:arrow_upper_right:](http://tano.si/tano-player/)"
+            ],
+            [
+              "9",
+              "[@ducakar](https://github.com/ducakar)/[**img2dds**](https://github.com/ducakar/img2dds)",
+              "Tool for converting images to DDS format with additional support for KSP.",
+              ""
+            ],
+            [
+              "8",
+              "[@ntadej](https://github.com/ntadej)/[**MeePlus**](https://github.com/ntadej/MeePlus)",
+              "DISCONTINUED! - Contact me, if you want to take over.",
+              "[:arrow_upper_right:](http://projects.tano.si)"
+            ],
+            [
+              "7",
+              "[@ducakar](https://github.com/ducakar)/[**openzone**](https://github.com/ducakar/openzone)",
+              "Simple cross-platform FPS/RTS game engine.",
+              "[:arrow_upper_right:](http://ducakar.github.io/openzone/)"
+            ],
+            [
+              "4",
+              "[@dvolk](https://github.com/dvolk)/[**project_x**](https://github.com/dvolk/project_x)",
+              ":video_game: open-world survival roguelikelike game",
+              "[:arrow_upper_right:](https://dvolk.github.io/posts/project_x.html)"
+            ],
+            [
+              "4",
+              "[@blazs](https://github.com/blazs)/[**HoeffdingTree**](https://github.com/blazs/HoeffdingTree)",
+              "Incremental classification and regression tree learning algorithm. ",
+              ""
+            ],
+            [
+              "2",
+              "[@JanHalozan](https://github.com/JanHalozan)/[**ConvolutionalNeuralN…**](https://github.com/JanHalozan/ConvolutionalNeuralNetwork)",
+              "A general purpose convolutional neural network.",
               ""
             ]
           ]
