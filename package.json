@@ -62,7 +62,8 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -2164,6 +2165,111 @@
               "[@HairyFotr](https://github.com/HairyFotr)/[**Liminoid**](https://github.com/HairyFotr/Liminoid)",
               "Augmented and virtual experience of disintegrating subjectivity",
               "[:arrow_upper_right:](http://projectliminoid.wordpress.com/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "425",
+              "[@lukapusic](https://github.com/lukapusic)/[**soundcloud-dl**](https://github.com/lukapusic/soundcloud-dl)",
+              "Soundcloud music downloader for Unix, Linux and Mac OS X written in BASH. (Private use only!)",
+              ""
+            ],
+            [
+              "64",
+              "[@igorpecovnik](https://github.com/igorpecovnik)/[**Debian-micro-home-se…**](https://github.com/igorpecovnik/Debian-micro-home-server)",
+              "Samba, TV headend, CUPS, scanner, Postfix, Dovecot, Apache, PHP, Mysql install",
+              ""
+            ],
+            [
+              "41",
+              "[@lukapusic](https://github.com/lukapusic)/[**twitter-bot**](https://github.com/lukapusic/twitter-bot)",
+              "Linux, OS X tweet bot which uses cURL.",
+              ""
+            ],
+            [
+              "22",
+              "[@lukapusic](https://github.com/lukapusic)/[**myspace-dl-cli**](https://github.com/lukapusic/myspace-dl-cli)",
+              "Command line MySpace music downloader written in BASH. (Private use only!)",
+              ""
+            ],
+            [
+              "21",
+              "[@igorpecovnik](https://github.com/igorpecovnik)/[**BananaPI-Debian**](https://github.com/igorpecovnik/BananaPI-Debian)",
+              "Scripts to create an Image of Debian for Banana PI ",
+              ""
+            ],
+            [
+              "13",
+              "[@igorpecovnik](https://github.com/igorpecovnik)/[**Lime-Debian**](https://github.com/igorpecovnik/Lime-Debian)",
+              "Scripts to create an Image of Debian for Olimex Lime / Lime 2",
+              ""
+            ],
+            [
+              "7",
+              "[@lukapusic](https://github.com/lukapusic)/[**sniff**](https://github.com/lukapusic/sniff)",
+              "Automatic MITM bash script for Linux. The script uses sslstrip, urlsnarf and ettercap.",
+              "[:arrow_upper_right:](http://360percents.com/posts/automatic-mitm-shell-script/)"
+            ],
+            [
+              "6",
+              "[@Krofek](https://github.com/Krofek)/[**MySpotIsHot**](https://github.com/Krofek/MySpotIsHot)",
+              "WiFi access point setup scripts for linux and windows",
+              ""
+            ],
+            [
+              "4",
+              "[@lukapusic](https://github.com/lukapusic)/[**myspace-dl**](https://github.com/lukapusic/myspace-dl)",
+              "MySpace music downloader with zenity GUI for Linux. (Private use only!)",
+              ""
+            ],
+            [
+              "4",
+              "[@lukapusic](https://github.com/lukapusic)/[**isniff**](https://github.com/lukapusic/isniff)",
+              "iOS (iPhone, iPad, iPod touch) sniffer written in bash.",
+              ""
+            ],
+            [
+              "4",
+              "[@lukapusic](https://github.com/lukapusic)/[**wordlist-creator**](https://github.com/lukapusic/wordlist-creator)",
+              "A bash script to create wordlists by scraping websites.",
+              ""
+            ],
+            [
+              "3",
+              "[@lukapusic](https://github.com/lukapusic)/[**fb-bot-bash**](https://github.com/lukapusic/fb-bot-bash)",
+              "Unix Facebook status update bot which uses cURL instead of Facebook's API written in BASH.",
+              "[:arrow_upper_right:](http://360percents.com/posts/bash-script-to-update-facebook-status-linux-mac-os-x/)"
+            ],
+            [
+              "2",
+              "[@ikolar](https://github.com/ikolar)/[**kiberpipa-ozadja**](https://github.com/ikolar/kiberpipa-ozadja)",
+              "Skripta za generiranje PNG teaserja za prihajajoče evente v kiberpipi",
+              "[:arrow_upper_right:](http://twitpic.com/3whdx)"
+            ],
+            [
+              "2",
+              "[@ikolar](https://github.com/ikolar)/[**wordpress_themes_pos…**](https://github.com/ikolar/wordpress_themes_poster)",
+              "Some scripts that throw thumbnails of all free wordpress themes onto a single page",
+              "[:arrow_upper_right:](http://www.kiberpipa.org/~ike/wpthemes/)"
+            ],
+            [
+              "2",
+              "[@tadejkan](https://github.com/tadejkan)/[**server-backup**](https://github.com/tadejkan/server-backup)",
+              "Backup for servers using Google Cloud Storage (Nearline)",
+              ""
             ]
           ]
         }
