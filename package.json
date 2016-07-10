@@ -55,7 +55,8 @@
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -976,6 +977,27 @@
             [
               "3",
               "[@alesstimec](https://github.com/alesstimec)/[**macaroon-demo**](https://github.com/alesstimec/macaroon-demo)",
+              "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@Mihapro](https://github.com/Mihapro)/[**MP-Reporter**](https://github.com/Mihapro/MP-Reporter)",
               "",
               ""
             ]
