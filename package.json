@@ -60,7 +60,8 @@
           "[Objective-C](#objective-c)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -1933,6 +1934,171 @@
               "3",
               "[@romunov](https://github.com/romunov)/[**GEDCOM-archives**](https://github.com/romunov/GEDCOM-archives)",
               "A snippet of code to download GEDCOM genealogy archives.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "95",
+              "[@mrbrdo](https://github.com/mrbrdo)/[**theine**](https://github.com/mrbrdo/theine)",
+              "Rails preloader for JRuby (similar to Zeus, Spring and Spork)",
+              ""
+            ],
+            [
+              "36",
+              "[@mrbrdo](https://github.com/mrbrdo)/[**mruby_cc**](https://github.com/mrbrdo/mruby_cc)",
+              "mruby to C parser",
+              ""
+            ],
+            [
+              "33",
+              "[@mrbrdo](https://github.com/mrbrdo)/[**has_moderated**](https://github.com/mrbrdo/has_moderated)",
+              "Rails 3.x gem for moderating ActiveRecord models (like posts, attributes...).",
+              ""
+            ],
+            [
+              "24",
+              "[@mrbrdo](https://github.com/mrbrdo)/[**marionette-rails**](https://github.com/mrbrdo/marionette-rails)",
+              "Rails + Backbone + Marionette + Coffeescript Boilerplate Example",
+              ""
+            ],
+            [
+              "19",
+              "[@mrbrdo](https://github.com/mrbrdo)/[**serialize-rails**](https://github.com/mrbrdo/serialize-rails)",
+              "rails attribute serialization into yaml, json, xml and with ruby marshal",
+              ""
+            ],
+            [
+              "10",
+              "[@jure](https://github.com/jure)/[**bit_analytics**](https://github.com/jure/bit_analytics)",
+              "A powerful analytics gem using Redis bitmaps",
+              ""
+            ],
+            [
+              "8",
+              "[@lenart](https://github.com/lenart)/[**wifi-spots**](https://github.com/lenart/wifi-spots)",
+              "Directory of free WiFi spots in Slovenia",
+              "[:arrow_upper_right:](http://www.facebook.com/pages/WiFi-tocke/388201696064?ref=ts)"
+            ],
+            [
+              "8",
+              "[@mrbrdo](https://github.com/mrbrdo)/[**active_record_group_…**](https://github.com/mrbrdo/active_record_group_count)",
+              "Efficient Rails group count if you need the summed up count instead of the hash.",
+              ""
+            ],
+            [
+              "5",
+              "[@mfilej](https://github.com/mfilej)/[**twitter-haiku**](https://github.com/mfilej/twitter-haiku)",
+              "Haikus from twitter to pdf with luatex and ruby",
+              ""
+            ],
+            [
+              "5",
+              "[@mrbrdo](https://github.com/mrbrdo)/[**ruby-najdi-sms**](https://github.com/mrbrdo/ruby-najdi-sms)",
+              "Najdi.si sms sending ruby gem.",
+              ""
+            ],
+            [
+              "5",
+              "[@mrbrdo](https://github.com/mrbrdo)/[**ruby-ybc**](https://github.com/mrbrdo/ruby-ybc)",
+              "Ruby YARV bytecode compiler (compiles Ruby code to C extension)",
+              ""
+            ],
+            [
+              "4",
+              "[@mrbrdo](https://github.com/mrbrdo)/[**mina-extras**](https://github.com/mrbrdo/mina-extras)",
+              "Extra mina tasks that I use",
+              ""
+            ],
+            [
+              "4",
+              "[@mfilej](https://github.com/mfilej)/[**zerop**](https://github.com/mfilej/zerop)",
+              "[not maintained] Zero Punctuation episodes, flash free",
+              ""
+            ],
+            [
+              "4",
+              "[@mrbrdo](https://github.com/mrbrdo)/[**inflector_slovenian**](https://github.com/mrbrdo/inflector_slovenian)",
+              "Rails 3 slovenski inflector (za pluralizacijo besed).",
+              ""
+            ],
+            [
+              "3",
+              "[@drgcms](https://github.com/drgcms)/[**drg-cms**](https://github.com/drgcms/drg-cms)",
+              "DRG CMS: Content management system for Ruby, Rails and MongoDB",
+              ""
+            ],
+            [
+              "3",
+              "[@mfilej](https://github.com/mfilej)/[**sinatra-local-sites**](https://github.com/mfilej/sinatra-local-sites)",
+              "Displays a list of links to your *.local domains, handy as a homepage for the browser you use for web development",
+              ""
+            ],
+            [
+              "3",
+              "[@mfilej](https://github.com/mfilej)/[**ruby-processing-char…**](https://github.com/mfilej/ruby-processing-charts)",
+              "Charts! charts meaningless charts with ruby-processing",
+              ""
+            ],
+            [
+              "3",
+              "[@Hoornet](https://github.com/Hoornet)/[**rubycourse**](https://github.com/Hoornet/rubycourse)",
+              "All my classes and projects on the Rubylearning.org site",
+              "[:arrow_upper_right:](http://www.rubylearning.org/class/)"
+            ],
+            [
+              "2",
+              "[@mfilej](https://github.com/mfilej)/[**simobiller**](https://github.com/mfilej/simobiller)",
+              "Analyze mobile operator bills—find out who to blame for the 80€ your carrier charged you last month! (Simobil only)",
+              ""
+            ],
+            [
+              "2",
+              "[@lenart](https://github.com/lenart)/[**spree_suppliers**](https://github.com/lenart/spree_suppliers)",
+              "Add custom Suppliers model to Spree for Lekarnar3",
+              ""
+            ],
+            [
+              "2",
+              "[@mihael](https://github.com/mihael)/[**transender**](https://github.com/mihael/transender)",
+              "Use Transender whenever you need to clone and rename XCode iPhone SDK projects.",
+              "[:arrow_upper_right:](http://kitschmaster.com/kiches/246)"
+            ],
+            [
+              "2",
+              "[@jure](https://github.com/jure)/[**mathtype**](https://github.com/jure/mathtype)",
+              "A Ruby gem for reading a MathType binary and converting it to an XML form",
+              ""
+            ],
+            [
+              "2",
+              "[@luxxi](https://github.com/luxxi)/[**trgovina**](https://github.com/luxxi/trgovina)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mrbrdo](https://github.com/mrbrdo)/[**nullobject_chain**](https://github.com/mrbrdo/nullobject_chain)",
+              "Allows you to chain methods even if somewhere in the process you start getting nil.",
+              ""
+            ],
+            [
+              "2",
+              "[@mfilej](https://github.com/mfilej)/[**rubytapas-dl**](https://github.com/mfilej/rubytapas-dl)",
+              "Download RubyTapas episodes from the CLI",
               ""
             ]
           ]
