@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[C](undefined)"
         ]
       },
       {
@@ -785,6 +786,45 @@
               "3",
               "[@CodeCatz](https://github.com/CodeCatz)/[**kibble**](https://github.com/CodeCatz/kibble)",
               "Tutorials, presentations and what-nots",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "148",
+              "[@RedPitaya](https://github.com/RedPitaya)/[**RedPitaya**](https://github.com/RedPitaya/RedPitaya)",
+              "Red Pitaya Ecosystem and Applications",
+              ""
+            ],
+            [
+              "6",
+              "[@LightBit](https://github.com/LightBit)/[**libkripto**](https://github.com/LightBit/libkripto)",
+              "Simple and flexible \"object-oriented\" cryptographic library written in ISO C99.",
+              ""
+            ],
+            [
+              "2",
+              "[@pinkflozd](https://github.com/pinkflozd)/[**android_kernel_motor…**](https://github.com/pinkflozd/android_kernel_motorola_falcon)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@pinkflozd](https://github.com/pinkflozd)/[**arm-cortex_a7-linux-…**](https://github.com/pinkflozd/arm-cortex_a7-linux-gnueabihf)",
+              "Linaro 4.x Cortex-A7 Optimized",
               ""
             ]
           ]
