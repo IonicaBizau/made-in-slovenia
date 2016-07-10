@@ -52,7 +52,8 @@
           "[CSS](#css)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[Clojure](#clojure)"
         ]
       },
       {
@@ -905,6 +906,27 @@
               "4",
               "[@breign](https://github.com/breign)/[**SkyStreamer**](https://github.com/breign/SkyStreamer)",
               "Mobile online radio player with registration and sharing suport. Built with Flex.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Clojure #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "17",
+              "[@sbelak](https://github.com/sbelak)/[**huri**](https://github.com/sbelak/huri)",
+              "Tools for the lazy data scientist",
               ""
             ]
           ]
