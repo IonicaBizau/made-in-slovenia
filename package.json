@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -687,6 +688,75 @@
               "2",
               "[@Lunatrius](https://github.com/Lunatrius)/[**Extension-Fixer**](https://github.com/Lunatrius/Extension-Fixer)",
               "[ARCHIVE ONLY] Rename invalid mod filenames (.jar.zip => .jar)",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8",
+              "[@manictime](https://github.com/manictime)/[**manictime-server-sam…**](https://github.com/manictime/manictime-server-sampleclient)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@manictime](https://github.com/manictime)/[**manictime-client-plu…**](https://github.com/manictime/manictime-client-plugin-example)",
+              "ManicTime Client plugin examples",
+              ""
+            ],
+            [
+              "4",
+              "[@DavidKarlas](https://github.com/DavidKarlas)/[**MonoDevelop.MicroFra…**](https://github.com/DavidKarlas/MonoDevelop.MicroFramework)",
+              "AddIn for MonoDevelop/Xamarin Studio for developing micro controllers with .Net MicroFramework",
+              ""
+            ],
+            [
+              "3",
+              "[@MihaMarkic](https://github.com/MihaMarkic)/[**Cake.Docker**](https://github.com/MihaMarkic/Cake.Docker)",
+              "Cake AddIn that extends Cake with Docker",
+              ""
+            ],
+            [
+              "3",
+              "[@InanZen](https://github.com/InanZen)/[**Factions**](https://github.com/InanZen/Factions)",
+              "TShock plugin",
+              ""
+            ],
+            [
+              "2",
+              "[@KarboniteKream](https://github.com/KarboniteKream)/[**JC2MapViewer**](https://github.com/KarboniteKream/JC2MapViewer)",
+              "Map Viewer for Just Cause 2",
+              ""
+            ],
+            [
+              "2",
+              "[@lucky3](https://github.com/lucky3)/[**TicTacToeBDD**](https://github.com/lucky3/TicTacToeBDD)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@TomyMMX](https://github.com/TomyMMX)/[**Wiki-MONSTER**](https://github.com/TomyMMX/Wiki-MONSTER)",
+              "WP7 app that helps you to learn new stuf with the help of an ever changing live tile with wikipedia articles.",
+              "[:arrow_upper_right:](http://www.luknja.com)"
+            ],
+            [
+              "2",
+              "[@DavidKarlas](https://github.com/DavidKarlas)/[**InternalsVisibleFrom…**](https://github.com/DavidKarlas/InternalsVisibleFromRoslyn)",
+              "All this project does is, checkout official Roslyn NuGet packages. Inject InternalsVisibleTo with Cecil and publish on new NuGet stream.",
               ""
             ]
           ]
