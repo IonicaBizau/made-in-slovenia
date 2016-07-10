@@ -57,7 +57,8 @@
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
           "[Lua](#lua)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -1291,6 +1292,87 @@
               "2",
               "[@Legoless](https://github.com/Legoless)/[**TravisKit**](https://github.com/Legoless/TravisKit)",
               "Travis CI API Wrapper for Objective-C",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "16",
+              "[@loonies](https://github.com/loonies)/[**kohana-notice**](https://github.com/loonies/kohana-notice)",
+              "Simple and easy to use class for displaying notification messages to the user",
+              ""
+            ],
+            [
+              "13",
+              "[@spinx](https://github.com/spinx)/[**sidekiq-job-php**](https://github.com/spinx/sidekiq-job-php)",
+              "Push and schedule jobs to Sidekiq from PHP",
+              ""
+            ],
+            [
+              "11",
+              "[@BostjanOb](https://github.com/BostjanOb)/[**SolrClient**](https://github.com/BostjanOb/SolrClient)",
+              "ZF2 module for Apache Solr",
+              ""
+            ],
+            [
+              "11",
+              "[@loonies](https://github.com/loonies)/[**kohana-pigeon**](https://github.com/loonies/kohana-pigeon)",
+              "[DEPRECATED] Wrapper module around SwiftMailer for Kohana 3.x",
+              ""
+            ],
+            [
+              "8",
+              "[@bostjan](https://github.com/bostjan)/[**PHP-application-serv…**](https://github.com/bostjan/PHP-application-server)",
+              "Application server framework written in PHP and intended to be run in standalone mode",
+              ""
+            ],
+            [
+              "5",
+              "[@titpetric](https://github.com/titpetric)/[**minitpl**](https://github.com/titpetric/minitpl)",
+              "Miniature fully featured PHP template engine",
+              "[:arrow_upper_right:](http://scene-si.org/minitpl/)"
+            ],
+            [
+              "3",
+              "[@spinx](https://github.com/spinx)/[**symfony2-sidekiq-exa…**](https://github.com/spinx/symfony2-sidekiq-example-app)",
+              "Example for executing sf2 services with Sidekiq",
+              ""
+            ],
+            [
+              "2",
+              "[@nasal](https://github.com/nasal)/[**newpiratebay**](https://github.com/nasal/newpiratebay)",
+              "Theme for isoHunt's openbay",
+              ""
+            ],
+            [
+              "2",
+              "[@loonies](https://github.com/loonies)/[**kohana-cerberus**](https://github.com/loonies/kohana-cerberus)",
+              "[DEPRECATED] Use https://github.com/berrybird/cerberus instead",
+              ""
+            ],
+            [
+              "2",
+              "[@titpetric](https://github.com/titpetric)/[**git_hooks**](https://github.com/titpetric/git_hooks)",
+              "Common git hooks to be used with git-hooks and git submodules across several projects",
+              ""
+            ],
+            [
+              "2",
+              "[@titpetric](https://github.com/titpetric)/[**git-misc**](https://github.com/titpetric/git-misc)",
+              "Enhanced git commands for working with multiple checkouts/submodules",
               ""
             ]
           ]
