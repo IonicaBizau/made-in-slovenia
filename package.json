@@ -54,7 +54,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
-          "[CoffeeScript](#coffeescript)"
+          "[CoffeeScript](#coffeescript)",
+          "[Go](#go)"
         ]
       },
       {
@@ -955,6 +956,27 @@
               "2",
               "[@andrejd](https://github.com/andrejd)/[**ng-classify-brunch**](https://github.com/andrejd/ng-classify-brunch)",
               "ng-classify wrapper/plugin for brunch build tool",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@alesstimec](https://github.com/alesstimec)/[**macaroon-demo**](https://github.com/alesstimec/macaroon-demo)",
+              "",
               ""
             ]
           ]
