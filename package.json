@@ -53,7 +53,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Clojure](#clojure)"
+          "[Clojure](#clojure)",
+          "[CoffeeScript](#coffeescript)"
         ]
       },
       {
@@ -927,6 +928,33 @@
               "17",
               "[@sbelak](https://github.com/sbelak)/[**huri**](https://github.com/sbelak/huri)",
               "Tools for the lazy data scientist",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CoffeeScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@andrejd](https://github.com/andrejd)/[**version-brunch**](https://github.com/andrejd/version-brunch)",
+              "Adds application version support to brunch ",
+              ""
+            ],
+            [
+              "2",
+              "[@andrejd](https://github.com/andrejd)/[**ng-classify-brunch**](https://github.com/andrejd/ng-classify-brunch)",
+              "ng-classify wrapper/plugin for brunch build tool",
               ""
             ]
           ]
