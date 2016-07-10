@@ -56,7 +56,8 @@
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -999,6 +1000,297 @@
               "2",
               "[@Mihapro](https://github.com/Mihapro)/[**MP-Reporter**](https://github.com/Mihapro/MP-Reporter)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3370",
+              "[@tomaz](https://github.com/tomaz)/[**appledoc**](https://github.com/tomaz/appledoc)",
+              "Objective-c code Apple style documentation set generator.",
+              "[:arrow_upper_right:](http://gentlebytes.com)"
+            ],
+            [
+              "583",
+              "[@matej](https://github.com/matej)/[**MBPullDownController**](https://github.com/matej/MBPullDownController)",
+              "MBPullDownController, an iOS container view controller for pullable scroll view interfaces.",
+              "[:arrow_upper_right:](www.bukovinski.com)"
+            ],
+            [
+              "479",
+              "[@Legoless](https://github.com/Legoless)/[**Alpha**](https://github.com/Legoless/Alpha)",
+              "Next generation debugging framework for iOS",
+              "[:arrow_upper_right:](https://github.com/Legoless/Alpha)"
+            ],
+            [
+              "389",
+              "[@aksonov](https://github.com/aksonov)/[**react-native-tablevi…**](https://github.com/aksonov/react-native-tableview)",
+              "Native iOS UITableView for React Native with JSON support and more",
+              ""
+            ],
+            [
+              "149",
+              "[@tomaz](https://github.com/tomaz)/[**GBCli**](https://github.com/tomaz/GBCli)",
+              "Objective C foundation tool command line interface library",
+              "[:arrow_upper_right:](http://gentlebytes.com)"
+            ],
+            [
+              "130",
+              "[@luka1995](https://github.com/luka1995)/[**LPGoogleFunctions-iO…**](https://github.com/luka1995/LPGoogleFunctions-iOS)",
+              "LPGoogleFunctions is an iOS library that provides easy access to certain Google API functions.",
+              "[:arrow_upper_right:](http://lukapenger.eu)"
+            ],
+            [
+              "114",
+              "[@luka1995](https://github.com/luka1995)/[**LPPopupListView-iOS**](https://github.com/luka1995/LPPopupListView-iOS)",
+              "LPPopupListView is custom popup component for iOS with table for single or multiple selection.",
+              ""
+            ],
+            [
+              "61",
+              "[@aksonov](https://github.com/aksonov)/[**react-native-xmpp**](https://github.com/aksonov/react-native-xmpp)",
+              "XMPP library for React Native (using iOS XMPPFramework library), alpha release (base messaging is supported at this moment)",
+              ""
+            ],
+            [
+              "44",
+              "[@luka1995](https://github.com/luka1995)/[**LPThreeSplitViewCont…**](https://github.com/luka1995/LPThreeSplitViewController)",
+              "LPThreeSplitViewController",
+              ""
+            ],
+            [
+              "35",
+              "[@aksonov](https://github.com/aksonov)/[**react-native-svg-ele…**](https://github.com/aksonov/react-native-svg-elements)",
+              "Use React Native to draw SVG. No XML parsing, use speed of React Native directly. Alpha version, not all elements/attributes are supported now.",
+              ""
+            ],
+            [
+              "30",
+              "[@tomaz](https://github.com/tomaz)/[**LionTableViewTesting**](https://github.com/tomaz/LionTableViewTesting)",
+              "Example projects demonstrating how OS X 10.7 Lion view-based table views are handled.",
+              "[:arrow_upper_right:](http://www.gentlebytes.com/2011/08/view-based-table-views-in-lion-part-1-of-2/)"
+            ],
+            [
+              "29",
+              "[@Legoless](https://github.com/Legoless)/[**TapticPlayground**](https://github.com/Legoless/TapticPlayground)",
+              "A simple Taptic Playground for iPhone 6s Taptic Engine",
+              ""
+            ],
+            [
+              "29",
+              "[@Legoless](https://github.com/Legoless)/[**Haystack**](https://github.com/Legoless/Haystack)",
+              "A collection of simple iOS classes and small libraries that make development easier.",
+              ""
+            ],
+            [
+              "24",
+              "[@borut-t](https://github.com/borut-t)/[**BTBadgeView**](https://github.com/borut-t/BTBadgeView)",
+              "View that replicates and extends the number badge UI element in iOS.",
+              ""
+            ],
+            [
+              "23",
+              "[@aksonov](https://github.com/aksonov)/[**react-native-mobx**](https://github.com/aksonov/react-native-mobx)",
+              "Make your app reactive with MobX and react-native-router-flux",
+              ""
+            ],
+            [
+              "22",
+              "[@tomaz](https://github.com/tomaz)/[**symbolicator**](https://github.com/tomaz/symbolicator)",
+              "OS X and iOS crash log symbolicator",
+              ""
+            ],
+            [
+              "21",
+              "[@aksonov](https://github.com/aksonov)/[**react-native-reactiv…**](https://github.com/aksonov/react-native-reactive)",
+              "React Native Reactive Model-View using react-native-router-flux, Calmm-JS and Kefir",
+              ""
+            ],
+            [
+              "20",
+              "[@tomaz](https://github.com/tomaz)/[**Xcode-Project-and-Fi…**](https://github.com/tomaz/Xcode-Project-and-File-Templates)",
+              "Custom Xcode project and file templates",
+              "[:arrow_upper_right:](http://gentlebytes.com)"
+            ],
+            [
+              "16",
+              "[@matej](https://github.com/matej)/[**MBURLExpander**](https://github.com/matej/MBURLExpander)",
+              "A Cocoa (touch) class for expanding short URLs",
+              "[:arrow_upper_right:](www.bukovinski.com)"
+            ],
+            [
+              "15",
+              "[@jernejstrasner](https://github.com/jernejstrasner)/[**Smooth-Gradient**](https://github.com/jernejstrasner/Smooth-Gradient)",
+              "How to draw a smooth gradient on OSX and iOS using CGShading",
+              ""
+            ],
+            [
+              "15",
+              "[@Legoless](https://github.com/Legoless)/[**AuthKit**](https://github.com/Legoless/AuthKit)",
+              "A collection of popular service authorizations.",
+              ""
+            ],
+            [
+              "13",
+              "[@jernejstrasner](https://github.com/jernejstrasner)/[**JSFacebook**](https://github.com/jernejstrasner/JSFacebook)",
+              "Facebook Graph API iOS SDK",
+              "[:arrow_upper_right:](http://www.jernejstrasner.com/)"
+            ],
+            [
+              "12",
+              "[@tomaz](https://github.com/tomaz)/[**LionAutoLayoutTestin…**](https://github.com/tomaz/LionAutoLayoutTesting)",
+              "",
+              "[:arrow_upper_right:](http://www.gentlebytes.com/2011/09/auto-layout-in-lion/)"
+            ],
+            [
+              "11",
+              "[@jernejstrasner](https://github.com/jernejstrasner)/[**JSImageLoader**](https://github.com/jernejstrasner/JSImageLoader)",
+              "Image loader for iOS with caching",
+              ""
+            ],
+            [
+              "10",
+              "[@Legoless](https://github.com/Legoless)/[**DesignKit**](https://github.com/Legoless/DesignKit)",
+              "Innovative iOS framework helping developers create beautifully designed applications",
+              ""
+            ],
+            [
+              "10",
+              "[@borut-t](https://github.com/borut-t)/[**BTUtils**](https://github.com/borut-t/BTUtils)",
+              "Usable utility methods, categories, macros and helpers.",
+              ""
+            ],
+            [
+              "8",
+              "[@Legoless](https://github.com/Legoless)/[**AFNetworking-RACRetr…**](https://github.com/Legoless/AFNetworking-RACRetryExtensions)",
+              "AFNetworking additions for ReactiveCocoa supporting auto retry",
+              ""
+            ],
+            [
+              "8",
+              "[@tomaz](https://github.com/tomaz)/[**ScrollingAboutWindow**](https://github.com/tomaz/ScrollingAboutWindow)",
+              "Demonstrates one way of creating scrolling credits for Cocoa apps",
+              "[:arrow_upper_right:](http://gentlebytes.com/2012/02/scrolling-credits)"
+            ],
+            [
+              "7",
+              "[@tomaz](https://github.com/tomaz)/[**StateOfTheArtStateMa…**](https://github.com/tomaz/StateOfTheArtStateMachine)",
+              "Demonstrates how to implement Cocoa/Cocoa Touch application using state pattern.",
+              "[:arrow_upper_right:](http://gentlebytes.com/2012/01/state-of-the-art-state-machine)"
+            ],
+            [
+              "6",
+              "[@borut-t](https://github.com/borut-t)/[**BTRatingView**](https://github.com/borut-t/BTRatingView)",
+              "Simple 5 star rating view.",
+              ""
+            ],
+            [
+              "6",
+              "[@luka1995](https://github.com/luka1995)/[**LPLjubljanaCarParksF…**](https://github.com/luka1995/LPLjubljanaCarParksFunctions-iOS)",
+              "LPLjubljanaCarParksFunctions is an iOS library that provides easy access to car parks in Ljubljana.",
+              ""
+            ],
+            [
+              "6",
+              "[@luka1995](https://github.com/luka1995)/[**LPBicikeljStationsFu…**](https://github.com/luka1995/LPBicikeljStationsFunctions-iOS)",
+              "API for BicikeLJ",
+              ""
+            ],
+            [
+              "6",
+              "[@mthongvanh](https://github.com/mthongvanh)/[**SwiftGimbal**](https://github.com/mthongvanh/SwiftGimbal)",
+              "A small Swift project that implements the Gimbal Platform SDK (v1.30.1 11/19/2014). ",
+              ""
+            ],
+            [
+              "5",
+              "[@Legoless](https://github.com/Legoless)/[**iOS-Localization**](https://github.com/Legoless/iOS-Localization)",
+              "Localization files of iOS operating system",
+              ""
+            ],
+            [
+              "5",
+              "[@jernejstrasner](https://github.com/jernejstrasner)/[**WiiBoard**](https://github.com/jernejstrasner/WiiBoard)",
+              "A simple app that connects to a WiiMote and uses it's IR light sensor to simulate the mouse.",
+              ""
+            ],
+            [
+              "4",
+              "[@Legoless](https://github.com/Legoless)/[**JSONModel-RACExtensi…**](https://github.com/Legoless/JSONModel-RACExtensions)",
+              "Reactive extensions to JSONModel library",
+              ""
+            ],
+            [
+              "4",
+              "[@borut-t](https://github.com/borut-t)/[**BTStoreView**](https://github.com/borut-t/BTStoreView)",
+              "Native App Store window inside app.",
+              ""
+            ],
+            [
+              "4",
+              "[@borut-t](https://github.com/borut-t)/[**BTButton**](https://github.com/borut-t/BTButton)",
+              "Custom UIButton implementation with image and text.",
+              ""
+            ],
+            [
+              "4",
+              "[@borut-t](https://github.com/borut-t)/[**BTTitlePaginationVie…**](https://github.com/borut-t/BTTitlePaginationView)",
+              "Twitter-like title pagination view.",
+              ""
+            ],
+            [
+              "4",
+              "[@Legoless](https://github.com/Legoless)/[**ParallaxGrid**](https://github.com/Legoless/ParallaxGrid)",
+              "An iOS Library that provides entire iOS7 layer functionality into views. Parallax and custom blur effects are supported.",
+              ""
+            ],
+            [
+              "3",
+              "[@borut-t](https://github.com/borut-t)/[**BTProgressView**](https://github.com/borut-t/BTProgressView)",
+              "Customized UIProgressView.",
+              ""
+            ],
+            [
+              "2",
+              "[@jernejstrasner](https://github.com/jernejstrasner)/[**JSTwitter**](https://github.com/jernejstrasner/JSTwitter)",
+              "A simple and minimalistic Twitter library for iOS",
+              ""
+            ],
+            [
+              "2",
+              "[@borut-t](https://github.com/borut-t)/[**BTSharingService**](https://github.com/borut-t/BTSharingService)",
+              "Nice and simple sharing service solution.",
+              ""
+            ],
+            [
+              "2",
+              "[@luka1995](https://github.com/luka1995)/[**LPProjects-LED-Cube-…**](https://github.com/luka1995/LPProjects-LED-Cube-8x8x8)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jbrezavscek](https://github.com/jbrezavscek)/[**guiapp**](https://github.com/jbrezavscek/guiapp)",
+              "test",
+              ""
+            ],
+            [
+              "2",
+              "[@Legoless](https://github.com/Legoless)/[**TravisKit**](https://github.com/Legoless/TravisKit)",
+              "Travis CI API Wrapper for Objective-C",
               ""
             ]
           ]
