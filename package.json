@@ -59,7 +59,8 @@
           "[Lua](#lua)",
           "[Objective-C](#objective-c)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -1911,6 +1912,27 @@
               "2",
               "[@offlinehacker](https://github.com/offlinehacker)/[**PyLogDecorate**](https://github.com/offlinehacker/PyLogDecorate)",
               "Python logging decorators.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@romunov](https://github.com/romunov)/[**GEDCOM-archives**](https://github.com/romunov/GEDCOM-archives)",
+              "A snippet of code to download GEDCOM genealogy archives.",
               ""
             ]
           ]
