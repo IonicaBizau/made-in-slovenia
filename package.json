@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -353,6 +354,339 @@
               "2",
               "[@rodp](https://github.com/rodp)/[**coupons-service**](https://github.com/rodp/coupons-service)",
               "Playing with Node + MySQL, Redis, RabbitMQ, etc.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "129",
+              "[@simonpercic](https://github.com/simonpercic)/[**OkLog**](https://github.com/simonpercic/OkLog)",
+              "Response logging interceptor for OkHttp. Logs a url link with url-encoded response for every OkHttp call.",
+              "[:arrow_upper_right:](https://medium.com/@simonpercic/effortless-network-response-logging-on-android-cedf0ebbdae1)"
+            ],
+            [
+              "60",
+              "[@gregacucnik](https://github.com/gregacucnik)/[**EditTextView**](https://github.com/gregacucnik/EditTextView)",
+              "Android widget combination of ImageView, EditText and TextView.",
+              ""
+            ],
+            [
+              "60",
+              "[@Lunatrius](https://github.com/Lunatrius)/[**Schematica**](https://github.com/Lunatrius/Schematica)",
+              "Import schematics, export schematics, build schematics. All inside Minecraft!",
+              ""
+            ],
+            [
+              "40",
+              "[@matejdro](https://github.com/matejdro)/[**PebbleNotificationCe…**](https://github.com/matejdro/PebbleNotificationCenter-Android)",
+              "Notification center for Pebble - Android part",
+              ""
+            ],
+            [
+              "29",
+              "[@sparkica](https://github.com/sparkica)/[**dbpedia-extension**](https://github.com/sparkica/dbpedia-extension)",
+              "Google Refine extension for adding columns (extending data) from DBpedia",
+              ""
+            ],
+            [
+              "26",
+              "[@Mrbrutal](https://github.com/Mrbrutal)/[**Traincraft-5**](https://github.com/Mrbrutal/Traincraft-5)",
+              "Traincraft repository for the new rewrite version for 1.7.x and 1.8.x version of Minecraft and beyond.",
+              ""
+            ],
+            [
+              "23",
+              "[@gregacucnik](https://github.com/gregacucnik)/[**EditableSeekBar**](https://github.com/gregacucnik/EditableSeekBar)",
+              "Android widget. Combination of EditText and SeekBar.",
+              ""
+            ],
+            [
+              "19",
+              "[@zidarsk8](https://github.com/zidarsk8)/[**galaxyCar**](https://github.com/zidarsk8/galaxyCar)",
+              "A stats display for a remote controll car, on a galaxy tab.",
+              ""
+            ],
+            [
+              "19",
+              "[@mmazi](https://github.com/mmazi)/[**rescu**](https://github.com/mmazi/rescu)",
+              "A lightweight json Rest client utility for JAX-RS",
+              ""
+            ],
+            [
+              "17",
+              "[@matejdro](https://github.com/matejdro)/[**PebbleDialer-Android**](https://github.com/matejdro/PebbleDialer-Android)",
+              "Android part of the PebbleDialer app.",
+              ""
+            ],
+            [
+              "17",
+              "[@Lunatrius](https://github.com/Lunatrius)/[**LunatriusCore**](https://github.com/Lunatrius/LunatriusCore)",
+              "",
+              ""
+            ],
+            [
+              "17",
+              "[@Lunatrius](https://github.com/Lunatrius)/[**InGame-Info-XML**](https://github.com/Lunatrius/InGame-Info-XML)",
+              "Display various information directly on the in-game GUI.",
+              ""
+            ],
+            [
+              "16",
+              "[@matejdro](https://github.com/matejdro)/[**Jail**](https://github.com/matejdro/Jail)",
+              "Jail plugin for Bukkit",
+              "[:arrow_upper_right:](http://dev.bukkit.org/server-mods/jail/)"
+            ],
+            [
+              "16",
+              "[@Mrbrutal](https://github.com/Mrbrutal)/[**Traincraft-164**](https://github.com/Mrbrutal/Traincraft-164)",
+              "A mod for Minecraft adding trains and other vehicles. 1.6.4. version",
+              "[:arrow_upper_right:](http://traincraft-mod.com/)"
+            ],
+            [
+              "16",
+              "[@tomazk](https://github.com/tomazk)/[**Java-Text-Extractor-…**](https://github.com/tomazk/Java-Text-Extractor-API)",
+              "Implementing java based text extractors as web APIs (currently only Boilerpipe & Goose)",
+              ""
+            ],
+            [
+              "13",
+              "[@Lunatrius](https://github.com/Lunatrius)/[**Monster-Spawn-Highli…**](https://github.com/Lunatrius/Monster-Spawn-Highlighter)",
+              "Discontinued, check Danger Zone. Highlight blocks where selected monsters are able to spawn.",
+              ""
+            ],
+            [
+              "12",
+              "[@matejdro](https://github.com/matejdro)/[**PortalStick**](https://github.com/matejdro/PortalStick)",
+              "Portal Gun plugin for Minecraft.",
+              "[:arrow_upper_right:](http://forums.bukkit.org/threads/fun-tp-portalstick-v1-0-0-portal-gun-in-minecraft-733.14684)"
+            ],
+            [
+              "10",
+              "[@sparkica](https://github.com/sparkica)/[**crowdsourcing**](https://github.com/sparkica/crowdsourcing)",
+              "An extension for OpenRefine for creating jobs and uploading data to CrowdFlower crowdsourcing service ",
+              ""
+            ],
+            [
+              "8",
+              "[@Lunatrius](https://github.com/Lunatrius)/[**Stackie**](https://github.com/Lunatrius/Stackie)",
+              "Improves vanilla stacking and adds experience orb stacking.",
+              ""
+            ],
+            [
+              "8",
+              "[@zidarsk8](https://github.com/zidarsk8)/[**AlarmClock**](https://github.com/zidarsk8/AlarmClock)",
+              "A simple android alarm clock",
+              ""
+            ],
+            [
+              "6",
+              "[@alesj](https://github.com/alesj)/[**maven-transformer-pl…**](https://github.com/alesj/maven-transformer-plugin)",
+              "Transform classes with ClassFileTransformer at compile time",
+              ""
+            ],
+            [
+              "6",
+              "[@alesj](https://github.com/alesj)/[**cdi-arq-workshop**](https://github.com/alesj/cdi-arq-workshop)",
+              "CDI and Arquillian Workshop",
+              ""
+            ],
+            [
+              "6",
+              "[@Lunatrius](https://github.com/Lunatrius)/[**DynIMC**](https://github.com/Lunatrius/DynIMC)",
+              "Send custom IMC messages loaded from config file(s).",
+              ""
+            ],
+            [
+              "5",
+              "[@simonpercic](https://github.com/simonpercic)/[**ResponseEcho**](https://github.com/simonpercic/ResponseEcho)",
+              "Java Spring web app that gets a Base64 encoded and gzipped string param, decodes and unpacks it and then echoes it back as a plain string.",
+              ""
+            ],
+            [
+              "5",
+              "[@alesj](https://github.com/alesj)/[**cassandra-ping**](https://github.com/alesj/cassandra-ping)",
+              "Apache Cassandra based JGroups ping protocol",
+              ""
+            ],
+            [
+              "4",
+              "[@tomazk](https://github.com/tomazk)/[**boilerpipe-thrift**](https://github.com/tomazk/boilerpipe-thrift)",
+              "Thrift server for Boilerpipe ",
+              ""
+            ],
+            [
+              "4",
+              "[@matejdro](https://github.com/matejdro)/[**MonsterHunt**](https://github.com/matejdro/MonsterHunt)",
+              "",
+              "[:arrow_upper_right:](http://dev.bukkit.org/server-mods/monsterhunt/)"
+            ],
+            [
+              "4",
+              "[@sparkica](https://github.com/sparkica)/[**CrowdFlowerClient**](https://github.com/sparkica/CrowdFlowerClient)",
+              "A simple client for Crowdflower crowdsourcing service",
+              ""
+            ],
+            [
+              "4",
+              "[@zidarsk8](https://github.com/zidarsk8)/[**inarow**](https://github.com/zidarsk8/inarow)",
+              "Simple 3d four in a row game",
+              ""
+            ],
+            [
+              "4",
+              "[@alesj](https://github.com/alesj)/[**lhotse**](https://github.com/alesj/lhotse)",
+              "JBoss Lhotse - GAE made simple --> goto CapeDwarf",
+              ""
+            ],
+            [
+              "4",
+              "[@mmazi](https://github.com/mmazi)/[**openblend-11-seam3**](https://github.com/mmazi/openblend-11-seam3)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@sbandur84](https://github.com/sbandur84)/[**micro-Blagajna-v1.x**](https://github.com/sbandur84/micro-Blagajna-v1.x)",
+              "v1.x | Brezplačna POS Blagajna na dotik v1.x",
+              "[:arrow_upper_right:](http://www.smikro.org)"
+            ],
+            [
+              "3",
+              "[@simonpercic](https://github.com/simonpercic)/[**WaterfallCache**](https://github.com/simonpercic/WaterfallCache)",
+              "A multi-level RxJava-powered cache for Android.",
+              ""
+            ],
+            [
+              "3",
+              "[@matejdro](https://github.com/matejdro)/[**PebbleAndroidCommons**](https://github.com/matejdro/PebbleAndroidCommons)",
+              "Shared classes between Notification Center for Pebble and Dialer for Pebble",
+              ""
+            ],
+            [
+              "3",
+              "[@alesj](https://github.com/alesj)/[**scopes**](https://github.com/alesj/scopes)",
+              "Seam Scopes",
+              ""
+            ],
+            [
+              "3",
+              "[@Lunatrius](https://github.com/Lunatrius)/[**Profiles**](https://github.com/Lunatrius/Profiles)",
+              "A simple client side mod that allows you to switch settings on-the-fly.",
+              ""
+            ],
+            [
+              "3",
+              "[@alesj](https://github.com/alesj)/[**harness2arquillian**](https://github.com/alesj/harness2arquillian)",
+              "Adapt Harness tests to Arquillian tests",
+              "[:arrow_upper_right:](http://svn.jboss.org/repos/test-utils/)"
+            ],
+            [
+              "3",
+              "[@alesj](https://github.com/alesj)/[**arquillian-container…**](https://github.com/alesj/arquillian-container-gae)",
+              "Arquillian Google AppEngine Container",
+              ""
+            ],
+            [
+              "3",
+              "[@mmazi](https://github.com/mmazi)/[**ripple-rest-java**](https://github.com/mmazi/ripple-rest-java)",
+              "A Java implementation for the Ripple REST API",
+              "[:arrow_upper_right:](https://ripple.com/build/ripple-rest/)"
+            ],
+            [
+              "3",
+              "[@mmazi](https://github.com/mmazi)/[**coin-story**](https://github.com/mmazi/coin-story)",
+              "Bitcoin market order book history",
+              ""
+            ],
+            [
+              "2",
+              "[@Lunatrius](https://github.com/Lunatrius)/[**Config-Patcher**](https://github.com/Lunatrius/Config-Patcher)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Lunatrius](https://github.com/Lunatrius)/[**Laser-Level**](https://github.com/Lunatrius/Laser-Level)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@zidarsk8](https://github.com/zidarsk8)/[**compiler**](https://github.com/zidarsk8/compiler)",
+              "A simple pascal compiler",
+              ""
+            ],
+            [
+              "2",
+              "[@Lunatrius](https://github.com/Lunatrius)/[**Tracer**](https://github.com/Lunatrius/Tracer)",
+              "Entity path debugging utility (TNT cannons, falling blocks etc).",
+              ""
+            ],
+            [
+              "2",
+              "[@alesj](https://github.com/alesj)/[**ceylon-servlet**](https://github.com/alesj/ceylon-servlet)",
+              "Ceylon Servlet Integration",
+              "[:arrow_upper_right:](http://ceylon-lang.org/)"
+            ],
+            [
+              "2",
+              "[@simonpercic](https://github.com/simonpercic)/[**CollectionHelper**](https://github.com/simonpercic/CollectionHelper)",
+              "A set of static utility methods to simplify filtering and querying Java's Collections.",
+              ""
+            ],
+            [
+              "2",
+              "[@zidarsk8](https://github.com/zidarsk8)/[**DoubleRecallDemo**](https://github.com/zidarsk8/DoubleRecallDemo)",
+              "Demo application for DoubleRecall integration",
+              "[:arrow_upper_right:](http://mobile.doublerecall.com)"
+            ],
+            [
+              "2",
+              "[@Mrbrutal](https://github.com/Mrbrutal)/[**MeanCore**](https://github.com/Mrbrutal/MeanCore)",
+              "The core mod for the upcoming Traincraft rewrite.",
+              ""
+            ],
+            [
+              "2",
+              "[@matejdro](https://github.com/matejdro)/[**PebbleKeep**](https://github.com/matejdro/PebbleKeep)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mmazi](https://github.com/mmazi)/[**bitstamp-api**](https://github.com/mmazi/bitstamp-api)",
+              "Java api to the Bitstamp's REST service",
+              ""
+            ],
+            [
+              "2",
+              "[@Lunatrius](https://github.com/Lunatrius)/[**Arrow-Flight-Path**](https://github.com/Lunatrius/Arrow-Flight-Path)",
+              "A mod made for fun for the ModJam 3 (http://mcp.ocean-labs.de/modjam/).",
+              ""
+            ],
+            [
+              "2",
+              "[@sbandur84](https://github.com/sbandur84)/[**micro-Blagajna**](https://github.com/sbandur84/micro-Blagajna)",
+              "v3.8x | Brezplačna odprto–kodna POS blagajna na dotik",
+              "[:arrow_upper_right:](http://www.micro-open.si)"
+            ],
+            [
+              "2",
+              "[@Lunatrius](https://github.com/Lunatrius)/[**Extension-Fixer**](https://github.com/Lunatrius/Extension-Fixer)",
+              "[ARCHIVE ONLY] Rename invalid mod filenames (.jar.zip => .jar)",
               ""
             ]
           ]
