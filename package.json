@@ -38,5 +38,326 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-slovenia/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in-slovenia#readme"
+  "homepage": "https://github.com/IonicaBizau/made-in-slovenia#readme",
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "608",
+              "[@alekseykulikov](https://github.com/alekseykulikov)/[**storage**](https://github.com/alekseykulikov/storage)",
+              "Asynchronous browser storage with multiple back-ends (IndexedDB, WebSQL, localStorage)",
+              ""
+            ],
+            [
+              "307",
+              "[@lexandera](https://github.com/lexandera)/[**Aardwolf**](https://github.com/lexandera/Aardwolf)",
+              "A remote JavaScript debugger for Android/iOS/WindowsPhone7/BlackBerry6. Written in JavaScript.",
+              "[:arrow_upper_right:](http://lexandera.com/aardwolf/)"
+            ],
+            [
+              "294",
+              "[@peric](https://github.com/peric)/[**GetCountries**](https://github.com/peric/GetCountries)",
+              "Outputs countries data based on the selected fields. Supports MySQL, Firebird, XML, JSON, CSV or YAML.",
+              "[:arrow_upper_right:](http://peric.github.com/GetCountries)"
+            ],
+            [
+              "185",
+              "[@alekseykulikov](https://github.com/alekseykulikov)/[**babel-preset-es2015-…**](https://github.com/alekseykulikov/babel-preset-es2015-node5)",
+              "Babel preset to make node@5 fully ES2015 compatible",
+              ""
+            ],
+            [
+              "108",
+              "[@alekseykulikov](https://github.com/alekseykulikov)/[**touch-action**](https://github.com/alekseykulikov/touch-action)",
+              "Disable 300ms delay on mobile using CSS touch-action or asynchronously download FastClick as polyfill",
+              ""
+            ],
+            [
+              "62",
+              "[@hadalin](https://github.com/hadalin)/[**chrome-hidefedora**](https://github.com/hadalin/chrome-hidefedora)",
+              "Chrome extension that removes troll youtube commenters",
+              "[:arrow_upper_right:](http://hidefedora.hadalin.me)"
+            ],
+            [
+              "47",
+              "[@rodp](https://github.com/rodp)/[**jquery.behavior**](https://github.com/rodp/jquery.behavior)",
+              "A Simple JavaScript Library for Complex Web Applications",
+              "[:arrow_upper_right:](http://rodpetrovic.com/jquery/behavior)"
+            ],
+            [
+              "45",
+              "[@dz0ny](https://github.com/dz0ny)/[**AudioJS**](https://github.com/dz0ny/AudioJS)",
+              "Fork of VideoJS this time for Audio, also have all themes from VideoJS",
+              "[:arrow_upper_right:](http://dz0ny.github.com/AudioJS/)"
+            ],
+            [
+              "41",
+              "[@xrado](https://github.com/xrado)/[**vue-validator**](https://github.com/xrado/vue-validator)",
+              "form validator for vue 0.11",
+              "[:arrow_upper_right:](http://xrado.github.io/vue-validator/)"
+            ],
+            [
+              "35",
+              "[@alekseykulikov](https://github.com/alekseykulikov)/[**browserify-test**](https://github.com/alekseykulikov/browserify-test)",
+              "An easy way to test front-end libraries using browserify and mocha",
+              ""
+            ],
+            [
+              "24",
+              "[@alekseykulikov](https://github.com/alekseykulikov)/[**storage-emitter**](https://github.com/alekseykulikov/storage-emitter)",
+              "Emit events between browser tabs",
+              ""
+            ],
+            [
+              "19",
+              "[@xrado](https://github.com/xrado)/[**vue-components**](https://github.com/xrado/vue-components)",
+              "Vue components / experiments",
+              "[:arrow_upper_right:](http://xrado.github.io/vue-components/)"
+            ],
+            [
+              "16",
+              "[@dz0ny](https://github.com/dz0ny)/[**vaultier**](https://github.com/dz0ny/vaultier)",
+              "MIrror of http://git.rclick.cz/rclick/vaultier.git",
+              ""
+            ],
+            [
+              "13",
+              "[@jancborchardt](https://github.com/jancborchardt)/[**libreprojects**](https://github.com/jancborchardt/libreprojects)",
+              "moved to http://github.com/libreprojects/librepro…",
+              "[:arrow_upper_right:](http://github.com/libreprojects/libreprojects)"
+            ],
+            [
+              "13",
+              "[@dz0ny](https://github.com/dz0ny)/[**chrome-transmission-…**](https://github.com/dz0ny/chrome-transmission-remote)",
+              "Useful if you run Transmission Bittorrent Client on a remote server",
+              "[:arrow_upper_right:](https://chrome.google.com/extensions/detail/npgaachhgkgbhakpgefakeefjehchoja)"
+            ],
+            [
+              "13",
+              "[@xrado](https://github.com/xrado)/[**Router**](https://github.com/xrado/Router)",
+              "Router provides methods for routing client-side pages, and connecting them to actions and events based on hashchange event, written in MooTools.",
+              ""
+            ],
+            [
+              "11",
+              "[@dz0ny](https://github.com/dz0ny)/[**mopidy-api-explorer**](https://github.com/dz0ny/mopidy-api-explorer)",
+              "",
+              ""
+            ],
+            [
+              "11",
+              "[@hadalin](https://github.com/hadalin)/[**firefox-hidefedora**](https://github.com/hadalin/firefox-hidefedora)",
+              "Firefox extension that removes troll youtube commenters",
+              "[:arrow_upper_right:](http://hidefedora.hadalin.me)"
+            ],
+            [
+              "11",
+              "[@dz0ny](https://github.com/dz0ny)/[**go-icecast-server**](https://github.com/dz0ny/go-icecast-server)",
+              "Proof of concept icecast server",
+              ""
+            ],
+            [
+              "11",
+              "[@markogresak](https://github.com/markogresak)/[**typescript-react-jsx…**](https://github.com/markogresak/typescript-react-jsx-example)",
+              "",
+              ""
+            ],
+            [
+              "10",
+              "[@dz0ny](https://github.com/dz0ny)/[**mopidy-android-app**](https://github.com/dz0ny/mopidy-android-app)",
+              "Mopidy client for Android",
+              ""
+            ],
+            [
+              "9",
+              "[@mrfoto](https://github.com/mrfoto)/[**mr-meta-box**](https://github.com/mrfoto/mr-meta-box)",
+              "Meta boxes for WordPress made easy.",
+              ""
+            ],
+            [
+              "8",
+              "[@dz0ny](https://github.com/dz0ny)/[**Teambox-Chrome-exten…**](https://github.com/dz0ny/Teambox-Chrome-extension)",
+              "Teambox extension which adds Instant Search",
+              ""
+            ],
+            [
+              "8",
+              "[@xrado](https://github.com/xrado)/[**firespider**](https://github.com/xrado/firespider)",
+              "FireSpider is a an extension for Firebug",
+              "[:arrow_upper_right:](http://xrado.hopto.org/post/firespider-extension-for-firebug)"
+            ],
+            [
+              "8",
+              "[@hadalin](https://github.com/hadalin)/[**jquery-flickr-photos…**](https://github.com/hadalin/jquery-flickr-photoset)",
+              "jQuery plugin for generating photoset gallery using Bootstrap and Bootstrap Image Gallery.",
+              ""
+            ],
+            [
+              "8",
+              "[@matjaz](https://github.com/matjaz)/[**aurelia-property-inj…**](https://github.com/matjaz/aurelia-property-injection)",
+              "Automatically inject properties",
+              ""
+            ],
+            [
+              "6",
+              "[@sedovsek](https://github.com/sedovsek)/[**DataTables-EU-date-P…**](https://github.com/sedovsek/DataTables-EU-date-Plug-In)",
+              "Plug-in for sorting EU Date (european date format), (d)d.mm(.yyyy) or (d)d/mm(/yyyy) ",
+              ""
+            ],
+            [
+              "5",
+              "[@matixmatix](https://github.com/matixmatix)/[**ember-parsley**](https://github.com/matixmatix/ember-parsley)",
+              "Ember addon for Parsley",
+              ""
+            ],
+            [
+              "5",
+              "[@matixmatix](https://github.com/matixmatix)/[**sweet_donut**](https://github.com/matixmatix/sweet_donut)",
+              ":doughnut: A jQuery plugin for making sweet donut charts on Canvas elements",
+              ""
+            ],
+            [
+              "5",
+              "[@matjaz](https://github.com/matjaz)/[**CommonJSClientServer**](https://github.com/matjaz/CommonJSClientServer)",
+              "Sharing code between node.js and browser (AngularJS)",
+              ""
+            ],
+            [
+              "5",
+              "[@jancborchardt](https://github.com/jancborchardt)/[**focalendar**](https://github.com/jancborchardt/focalendar)",
+              "Calendar which allows you to focus, very in progress",
+              "[:arrow_upper_right:](http://jancborchardt.net/focalendar)"
+            ],
+            [
+              "4",
+              "[@mrfoto](https://github.com/mrfoto)/[**mrsi-gallery**](https://github.com/mrfoto/mrsi-gallery)",
+              "mrsi-gallery is a full-screen image gallery that takes advantage of CSS3.",
+              "[:arrow_upper_right:](http://mrfoto.github.io/mrsi-gallery/)"
+            ],
+            [
+              "4",
+              "[@matjaz](https://github.com/matjaz)/[**presence-tracker**](https://github.com/matjaz/presence-tracker)",
+              "Simple modular presence tracker.",
+              ""
+            ],
+            [
+              "4",
+              "[@marpontes](https://github.com/marpontes)/[**cubeguard**](https://github.com/marpontes/cubeguard)",
+              "Pentaho plugin that intends to deliver some simplicity on implementing mondrian security.",
+              ""
+            ],
+            [
+              "4",
+              "[@matjaz](https://github.com/matjaz)/[**jquery.fly**](https://github.com/matjaz/jquery.fly)",
+              "jQuery flyweight pattern",
+              ""
+            ],
+            [
+              "4",
+              "[@brianking](https://github.com/brianking)/[**events-app**](https://github.com/brianking/events-app)",
+              "Initially intended as a mobile Web app for Mozilla community events. Hopefully it will be evolve to be useful for everyone having an event.",
+              ""
+            ],
+            [
+              "4",
+              "[@dz0ny](https://github.com/dz0ny)/[**node-deployer**](https://github.com/dz0ny/node-deployer)",
+              "Node.js deployment tool, inspired by Ruby's Capistrano.",
+              ""
+            ],
+            [
+              "3",
+              "[@gasperk](https://github.com/gasperk)/[**injoxy**](https://github.com/gasperk/injoxy)",
+              "a very simple content injector http proxy written for node.js",
+              ""
+            ],
+            [
+              "3",
+              "[@jancborchardt](https://github.com/jancborchardt)/[**gnome-shell-extensio…**](https://github.com/jancborchardt/gnome-shell-extensions)",
+              "Gnome Shell extension to remove the workspace thumbnails sidebar. Perfect if you don't use workspaces.",
+              ""
+            ],
+            [
+              "2",
+              "[@matjaz](https://github.com/matjaz)/[**faye-service**](https://github.com/matjaz/faye-service)",
+              "Mimics support for /service/** channels in Faye.",
+              ""
+            ],
+            [
+              "2",
+              "[@matjaz](https://github.com/matjaz)/[**webcomponents-worksh…**](https://github.com/matjaz/webcomponents-workshop)",
+              "Webcomponents workshop including Aurelia sample app",
+              ""
+            ],
+            [
+              "2",
+              "[@Some1Else](https://github.com/Some1Else)/[**MiMa-MeanXY**](https://github.com/Some1Else/MiMa-MeanXY)",
+              "MeanXY is a Tile based UI to the Middle Machine Concepts",
+              "[:arrow_upper_right:](http://meanxy.com)"
+            ],
+            [
+              "2",
+              "[@mrfoto](https://github.com/mrfoto)/[**topo**](https://github.com/mrfoto/topo)",
+              "Topographical map of Slovenia",
+              "[:arrow_upper_right:](http://mrfoto.github.io/topo)"
+            ],
+            [
+              "2",
+              "[@marpontes](https://github.com/marpontes)/[**cdt**](https://github.com/marpontes/cdt)",
+              "Community Dashboards Templates over CDE for Pentaho",
+              ""
+            ],
+            [
+              "2",
+              "[@slashrsm](https://github.com/slashrsm)/[**cache_presentation**](https://github.com/slashrsm/cache_presentation)",
+              "Drupal cache presentation.",
+              ""
+            ],
+            [
+              "2",
+              "[@mathjazz](https://github.com/mathjazz)/[**affiliates-triage**](https://github.com/mathjazz/affiliates-triage)",
+              "Triaging bugs for affiliates.mozilla.org",
+              ""
+            ],
+            [
+              "2",
+              "[@Some1Else](https://github.com/Some1Else)/[**mima-athena**](https://github.com/Some1Else/mima-athena)",
+              "Middle Machine Client",
+              ""
+            ],
+            [
+              "2",
+              "[@ialja](https://github.com/ialja)/[**beautiful-web**](https://github.com/ialja/beautiful-web)",
+              "Playing with Flask with a simple web app",
+              ""
+            ],
+            [
+              "2",
+              "[@rodp](https://github.com/rodp)/[**coupons-service**](https://github.com/rodp/coupons-service)",
+              "Playing with Node + MySQL, Redis, RabbitMQ, etc.",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
+  }
 }
