@@ -5,13 +5,6 @@
 
 > A list of neat projects made in Slovenia
 
-## :cloud: Installation
-
-```sh
-$ npm i --save made-in-slovenia
-```
-
-
 ## Contents
 
  - [JavaScript](#javascript)
@@ -410,31 +403,6 @@ $ npm i --save made-in-slovenia
 2 | [@ikolar](https://github.com/ikolar)/[**kiberpipa-ozadja**](https://github.com/ikolar/kiberpipa-ozadja) | Skripta za generiranje PNG teaserja za prihajajoče evente v kiberpipi | [:arrow_upper_right:](http://twitpic.com/3whdx)
 2 | [@ikolar](https://github.com/ikolar)/[**wordpress_themes_pos…**](https://github.com/ikolar/wordpress_themes_poster) | Some scripts that throw thumbnails of all free wordpress themes onto a single page | [:arrow_upper_right:](http://www.kiberpipa.org/~ike/wpthemes/)
 2 | [@tadejkan](https://github.com/tadejkan)/[**server-backup**](https://github.com/tadejkan/server-backup) | Backup for servers using Google Cloud Storage (Nearline) |
-
-## :clipboard: Example
-
-
-
-```js
-const madeInSlovenia = require("made-in-slovenia");
-
-console.log(madeInSlovenia());
-```
-
-## :memo: Documentation
-
-
-### `madeInSlovenia(a, b)`
-A list of neat projects made in Slovenia
-
-#### Params
-- **Number** `a`: Param descrpition.
-- **Number** `b`: Param descrpition.
-
-#### Return
-- **Number** Return description.
-
-
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
