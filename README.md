@@ -25,6 +25,7 @@
  - [Ruby](#ruby)
  - [Scala](#scala)
  - [Shell](#shell)
+
 ### JavaScript #
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
