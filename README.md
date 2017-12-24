@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -29,6 +30,7 @@
  - [Shell](#shell)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 608 | [@alekseykulikov](https://github.com/alekseykulikov)/[**storage**](https://github.com/alekseykulikov/storage) | Asynchronous browser storage with multiple back-ends (IndexedDB, WebSQL, localStorage) |
@@ -80,7 +82,9 @@
 2 | [@Some1Else](https://github.com/Some1Else)/[**mima-athena**](https://github.com/Some1Else/mima-athena) | Middle Machine Client |
 2 | [@ialja](https://github.com/ialja)/[**beautiful-web**](https://github.com/ialja/beautiful-web) | Playing with Flask with a simple web app |
 2 | [@rodp](https://github.com/rodp)/[**coupons-service**](https://github.com/rodp/coupons-service) | Playing with Node + MySQL, Redis, RabbitMQ, etc. |
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 129 | [@simonpercic](https://github.com/simonpercic)/[**OkLog**](https://github.com/simonpercic/OkLog) | Response logging interceptor for OkHttp. Logs a url link with url-encoded response for every OkHttp call. | [:arrow_upper_right:](https://medium.com/@simonpercic/effortless-network-response-logging-on-android-cedf0ebbdae1)
@@ -136,7 +140,9 @@
 2 | [@Lunatrius](https://github.com/Lunatrius)/[**Arrow-Flight-Path**](https://github.com/Lunatrius/Arrow-Flight-Path) | A mod made for fun for the ModJam 3 (http://mcp.ocean-labs.de/modjam/). |
 2 | [@sbandur84](https://github.com/sbandur84)/[**micro-Blagajna**](https://github.com/sbandur84/micro-Blagajna) | v3.8x | Brezplačna odprto–kodna POS blagajna na dotik | [:arrow_upper_right:](http://www.micro-open.si)
 2 | [@Lunatrius](https://github.com/Lunatrius)/[**Extension-Fixer**](https://github.com/Lunatrius/Extension-Fixer) | [ARCHIVE ONLY] Rename invalid mod filenames (.jar.zip => .jar) |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 8 | [@manictime](https://github.com/manictime)/[**manictime-server-sam…**](https://github.com/manictime/manictime-server-sampleclient) |  |
@@ -148,19 +154,25 @@
 2 | [@lucky3](https://github.com/lucky3)/[**TicTacToeBDD**](https://github.com/lucky3/TicTacToeBDD) |  |
 2 | [@TomyMMX](https://github.com/TomyMMX)/[**Wiki-MONSTER**](https://github.com/TomyMMX/Wiki-MONSTER) | WP7 app that helps you to learn new stuf with the help of an ever changing live tile with wikipedia articles. | [:arrow_upper_right:](http://www.luknja.com)
 2 | [@DavidKarlas](https://github.com/DavidKarlas)/[**InternalsVisibleFrom…**](https://github.com/DavidKarlas/InternalsVisibleFromRoslyn) | All this project does is, checkout official Roslyn NuGet packages. Inject InternalsVisibleTo with Cecil and publish on new NuGet stream. |
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@CodeCatz](https://github.com/CodeCatz)/[**litterbox**](https://github.com/CodeCatz/litterbox) | CodeCatz litterbox - pieces of shitty code |
 3 | [@CodeCatz](https://github.com/CodeCatz)/[**kibble**](https://github.com/CodeCatz/kibble) | Tutorials, presentations and what-nots |
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 148 | [@RedPitaya](https://github.com/RedPitaya)/[**RedPitaya**](https://github.com/RedPitaya/RedPitaya) | Red Pitaya Ecosystem and Applications |
 6 | [@LightBit](https://github.com/LightBit)/[**libkripto**](https://github.com/LightBit/libkripto) | Simple and flexible "object-oriented" cryptographic library written in ISO C99. |
 2 | [@pinkflozd](https://github.com/pinkflozd)/[**android_kernel_motor…**](https://github.com/pinkflozd/android_kernel_motorola_falcon) |  |
 2 | [@pinkflozd](https://github.com/pinkflozd)/[**arm-cortex_a7-linux-…**](https://github.com/pinkflozd/arm-cortex_a7-linux-gnueabihf) | Linaro 4.x Cortex-A7 Optimized |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 34 | [@ntadej](https://github.com/ntadej)/[**tano**](https://github.com/ntadej/tano) | Tano - an open IP TV player | [:arrow_upper_right:](http://tano.si/tano-player/)
@@ -170,28 +182,40 @@
 4 | [@dvolk](https://github.com/dvolk)/[**project_x**](https://github.com/dvolk/project_x) | :video_game: open-world survival roguelikelike game | [:arrow_upper_right:](https://dvolk.github.io/posts/project_x.html)
 4 | [@blazs](https://github.com/blazs)/[**HoeffdingTree**](https://github.com/blazs/HoeffdingTree) | Incremental classification and regression tree learning algorithm.  |
 2 | [@JanHalozan](https://github.com/JanHalozan)/[**ConvolutionalNeuralN…**](https://github.com/JanHalozan/ConvolutionalNeuralNetwork) | A general purpose convolutional neural network. |
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4 | [@breign](https://github.com/breign)/[**SkyStreamer**](https://github.com/breign/SkyStreamer) | Mobile online radio player with registration and sharing suport. Built with Flex. |
+
 ### Clojure #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 17 | [@sbelak](https://github.com/sbelak)/[**huri**](https://github.com/sbelak/huri) | Tools for the lazy data scientist |
+
 ### CoffeeScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@andrejd](https://github.com/andrejd)/[**version-brunch**](https://github.com/andrejd/version-brunch) | Adds application version support to brunch  |
 2 | [@andrejd](https://github.com/andrejd)/[**ng-classify-brunch**](https://github.com/andrejd/ng-classify-brunch) | ng-classify wrapper/plugin for brunch build tool |
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@alesstimec](https://github.com/alesstimec)/[**macaroon-demo**](https://github.com/alesstimec/macaroon-demo) |  |
+
 ### Lua #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@Mihapro](https://github.com/Mihapro)/[**MP-Reporter**](https://github.com/Mihapro/MP-Reporter) |  |
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3370 | [@tomaz](https://github.com/tomaz)/[**appledoc**](https://github.com/tomaz/appledoc) | Objective-c code Apple style documentation set generator. | [:arrow_upper_right:](http://gentlebytes.com)
@@ -240,7 +264,9 @@
 2 | [@luka1995](https://github.com/luka1995)/[**LPProjects-LED-Cube-…**](https://github.com/luka1995/LPProjects-LED-Cube-8x8x8) |  |
 2 | [@jbrezavscek](https://github.com/jbrezavscek)/[**guiapp**](https://github.com/jbrezavscek/guiapp) | test |
 2 | [@Legoless](https://github.com/Legoless)/[**TravisKit**](https://github.com/Legoless/TravisKit) | Travis CI API Wrapper for Objective-C |
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 16 | [@loonies](https://github.com/loonies)/[**kohana-notice**](https://github.com/loonies/kohana-notice) | Simple and easy to use class for displaying notification messages to the user |
@@ -254,7 +280,9 @@
 2 | [@loonies](https://github.com/loonies)/[**kohana-cerberus**](https://github.com/loonies/kohana-cerberus) | [DEPRECATED] Use https://github.com/berrybird/cerberus instead |
 2 | [@titpetric](https://github.com/titpetric)/[**git_hooks**](https://github.com/titpetric/git_hooks) | Common git hooks to be used with git-hooks and git submodules across several projects |
 2 | [@titpetric](https://github.com/titpetric)/[**git-misc**](https://github.com/titpetric/git-misc) | Enhanced git commands for working with multiple checkouts/submodules |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 339 | [@uskudnik](https://github.com/uskudnik)/[**amazon-glacier-cmd-i…**](https://github.com/uskudnik/amazon-glacier-cmd-interface) | Command line interface for Amazon Glacier |
@@ -344,11 +372,15 @@
 2 | [@gandalfar](https://github.com/gandalfar)/[**talk-visualize-kiber…**](https://github.com/gandalfar/talk-visualize-kiberpipa) | Talk I gave at Kiberpipa (in Slovenian) about how to parse Excel file and make a simple d3.js based visualization |
 2 | [@Kami](https://github.com/Kami)/[**django-encrypted-set…**](https://github.com/Kami/django-encrypted-settings) | Thin wrapper around Python keyczar bindings which allows you to manage and use encrypted settings in your Django app. |
 2 | [@offlinehacker](https://github.com/offlinehacker)/[**PyLogDecorate**](https://github.com/offlinehacker/PyLogDecorate) | Python logging decorators. |
+
 ### R #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@romunov](https://github.com/romunov)/[**GEDCOM-archives**](https://github.com/romunov/GEDCOM-archives) | A snippet of code to download GEDCOM genealogy archives. |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 95 | [@mrbrdo](https://github.com/mrbrdo)/[**theine**](https://github.com/mrbrdo/theine) | Rails preloader for JRuby (similar to Zeus, Spring and Spork) |
@@ -376,7 +408,9 @@
 2 | [@luxxi](https://github.com/luxxi)/[**trgovina**](https://github.com/luxxi/trgovina) |  |
 2 | [@mrbrdo](https://github.com/mrbrdo)/[**nullobject_chain**](https://github.com/mrbrdo/nullobject_chain) | Allows you to chain methods even if somewhere in the process you start getting nil. |
 2 | [@mfilej](https://github.com/mfilej)/[**rubytapas-dl**](https://github.com/mfilej/rubytapas-dl) | Download RubyTapas episodes from the CLI |
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 9 | [@koofr](https://github.com/koofr)/[**play2-sprites**](https://github.com/koofr/play2-sprites) | Sprite generator for Play Framework / SBT |
@@ -387,7 +421,9 @@
 2 | [@koofr](https://github.com/koofr)/[**play-jax-ws**](https://github.com/koofr/play-jax-ws) | Expose your SOAP service with Play Framework. |
 2 | [@edofic](https://github.com/edofic)/[**akka-cluster-notes**](https://github.com/edofic/akka-cluster-notes) | A super simple project using akka 2.2 cluster with some notes |
 2 | [@HairyFotr](https://github.com/HairyFotr)/[**Liminoid**](https://github.com/HairyFotr/Liminoid) | Augmented and virtual experience of disintegrating subjectivity | [:arrow_upper_right:](http://projectliminoid.wordpress.com/)
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 425 | [@lukapusic](https://github.com/lukapusic)/[**soundcloud-dl**](https://github.com/lukapusic/soundcloud-dl) | Soundcloud music downloader for Unix, Linux and Mac OS X written in BASH. (Private use only!) |
@@ -405,6 +441,7 @@
 2 | [@ikolar](https://github.com/ikolar)/[**kiberpipa-ozadja**](https://github.com/ikolar/kiberpipa-ozadja) | Skripta za generiranje PNG teaserja za prihajajoče evente v kiberpipi | [:arrow_upper_right:](http://twitpic.com/3whdx)
 2 | [@ikolar](https://github.com/ikolar)/[**wordpress_themes_pos…**](https://github.com/ikolar/wordpress_themes_poster) | Some scripts that throw thumbnails of all free wordpress themes onto a single page | [:arrow_upper_right:](http://www.kiberpipa.org/~ike/wpthemes/)
 2 | [@tadejkan](https://github.com/tadejkan)/[**server-backup**](https://github.com/tadejkan/server-backup) | Backup for servers using Google Cloud Storage (Nearline) |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
